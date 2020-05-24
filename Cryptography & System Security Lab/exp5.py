@@ -1,0 +1,11 @@
+import hashlib
+str1=input("ENter m>>>>")
+m=hashlib.md5(str1.encode())
+print("For MD-5")
+print(m.digest())
+print(m.hexdigest())
+print("------------------------------------------------")
+m1=hashlib.sha1(str1.encode())
+print("For SHA1")
+print(m1.digest())
+print(m1.hexdigest())
