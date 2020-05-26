@@ -7,6 +7,6 @@ Computer Engineering Semester 6 Practicals codes for all Subjects
 
 [Software Engineering (SEL) Lab](https://github.com/HarshOza36/SEM_6/tree/master/Software%20Engineering%20Lab)
 
-[System programming and Compiler Construction (SSfL) Lab](https://github.com/HarshOza36/SEM_6/tree/master/System%20Programming%20%26%20Complier%20Construction%20Lab)
+[System programming and Compiler Construction (SSfL) Lab](https://github.com/HarshOza36/SEM_6/tree/master/System%20Programming%20%26%20Compiler%20Construction%20Lab)
 
 [Machine Learning (MPRO) Lab](https://github.com/HarshOza36/SEM_6/tree/master/Machine%20Learning%20(MPRO)%20Lab)
